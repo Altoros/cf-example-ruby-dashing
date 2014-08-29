@@ -1,0 +1,8 @@
+---
+applications:
+- name: dashing 
+  memory: 128M
+  instances: 1
+  host: dashing
+  path: .
+
